@@ -6,3 +6,5 @@ Created on Thu Jan 30 16:33:49 2025
 """
 
 print("hello")
+
+print("rien")
